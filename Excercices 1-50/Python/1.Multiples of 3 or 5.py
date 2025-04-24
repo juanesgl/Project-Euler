@@ -13,7 +13,7 @@ def main():
 
             list_of_multiples.append(i)
 
-    print(sum(list_of_multiples))
+    print(sum(list_of_multiples)) #ANS:233168
        
 if __name__ == "__main__":
     main()

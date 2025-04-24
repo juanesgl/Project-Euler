@@ -12,6 +12,6 @@ public class MultiplesOf3Or5 {
                 sum += i;
             }
         }
-        System.out.println(sum);
+        System.out.println(sum); //ANS:233168
     }
 }
